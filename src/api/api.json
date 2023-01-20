@@ -1,0 +1,27 @@
+{
+    "wines": [
+        {
+            "id": 0,
+            "image": "https://www.tascadalmerita.it/wp-content/uploads/2017/03/Sallier_NeroDavola-2020.png",
+            "name": "Nero D'Avola",
+            "location": "Palermo",
+            "type": "Rosso",
+            "fizz": "Non frizzante",
+            "aroma": "Aroma di Gelso Nero",
+            "price": "20€",
+            "smell": "8/10",
+            "colour": "9/10", 
+            "effervescence": "1/10",
+            "experience": "7/10",
+            "comments": [
+                {"id":"0" ,"content":"Vino di ottima fattura, veramente buono!", "likes":"34", "reports":"7", "user":"Un intenditore"},
+                {"id":"1" ,"content":"Orribile, mai vista una cosa così orribile, ho ancora il terrore.", "likes":"0", "reports":"1k", "user":"Troll"},
+                {"id":"2" ,"content":"Commento.", "likes":"999", "reports":"999", "user":"Commentatore"},
+                {"id":"3" ,"content":"Bel vino, 10/10.", "likes":"10", "reports":"10", "user":"IGN"},
+                {"id":"4" ,"content":"Ciao sono Alberto, preferisco la birra.", "likes":"1k", "reports":"0", "user":"Non Alberto"}
+            ],
+            "final_score": "88%", 
+            "reviews": "1624"       
+        }
+    ]
+}
